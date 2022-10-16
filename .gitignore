@@ -31,6 +31,6 @@ project/plugins/project/
 **/target/
 **/*.iml
 
-.idea
-.bsp
+.idea/
+.bsp/
 .DS_Store
