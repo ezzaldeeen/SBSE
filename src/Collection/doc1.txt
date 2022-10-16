@@ -1,0 +1,1 @@
+Validate the data. If the data is invalid, it will return a nice and clear error, indicating exactly where and what was the incorrect data.
